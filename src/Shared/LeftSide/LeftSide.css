@@ -1,0 +1,12 @@
+
+.block {
+    color: #000; 
+    
+  }
+  
+
+  .block.active {
+    color: red; 
+    background-color: #E7E7E7;
+  }
+  
